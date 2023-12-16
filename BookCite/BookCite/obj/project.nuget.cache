@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hFZpOtpM169UQD/OFQqrUyiidNb8A+ZDLVrgyTXkbtJspgIBMQmFzHxTSKV28X7+fuOkLw8yyL3CTQLA2caGtA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\source\\repos\\BookCite\\BookCite\\BookCite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}

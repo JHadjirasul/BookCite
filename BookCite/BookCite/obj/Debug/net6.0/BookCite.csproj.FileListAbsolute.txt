@@ -1,0 +1,17 @@
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\BookCite.exe
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\BookCite.deps.json
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\BookCite.runtimeconfig.json
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\BookCite.dll
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\BookCite.pdb
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.AssemblyInfo.cs
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.dll
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\refint\BookCite.dll
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.pdb
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.genruntimeconfig.cache
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\ref\BookCite.dll
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\BookCite\BookCite\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\admin\source\repos\BookCite\BookCite\obj\Debug\net6.0\BookCite.csproj.CopyComplete
